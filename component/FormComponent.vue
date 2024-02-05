@@ -94,7 +94,7 @@ h1 {
   justify-content: center;
   align-items: center;
   margin: auto;
-  border: 1px solid teal;
+  border: 1px solid black;
   width: 400px;
   border-radius: 10px;
 }
@@ -113,10 +113,10 @@ h1 {
   height: 40px;
   border-radius: 10px;
   /* background-color: grey; */
-  border: 1px solid teal;
+  border: 1px solid black;
 }
 
 .form_submit:hover {
-  background-color: teal;
+  background-color: black;
 }
 </style>
